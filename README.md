@@ -39,9 +39,9 @@ Evaluate the model with test accuracy, confusion matrix, classification report, 
 
 ## PROGRAM
 
-### Name: RITHIK V
+### Name: Vinnush Kumar L S
 
-### Register Number: 212223230171
+### Register Number: 212223230244
 
 ```python
 import torch
@@ -270,7 +270,7 @@ predict_image(model, image_index=25, dataset=test_dataset)
 <img width="640" height="547" alt="image" src="https://github.com/user-attachments/assets/6219be60-7115-4b85-b547-5526a6117dac" />
 
 ## Classification Report
-<img width="536" height="242" alt="image" src="https://github.com/user-attachments/assets/9cee3ada-9672-4148-a4cb-81d5526900de" />
+<img width="670" height="247" alt="image" src="https://github.com/user-attachments/assets/273306fc-b0f6-42c1-945b-236ae4459912" />
 
 
 
